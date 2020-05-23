@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"appId": "nodeapp",
+			"appPort": 3000,
+			"label": "daprd-debug",
+			"type": "daprd"
+		},
+		{
+			"appId": "nodeapp",
+			"label": "daprd-down",
+			"type": "daprd-down"
+		}
+	]
+}
